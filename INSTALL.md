@@ -1,4 +1,4 @@
-# Installing TextBack
+# Installing TextBack Analysis Engine
 
 ## Requirements
 
@@ -7,7 +7,7 @@
 ## 1. Get the code
 
 ```bash
-git clone <your-fork-url> textback
+git clone <your-fork-url> textback-analysis-engine
 cd textback
 ```
 
@@ -15,7 +15,7 @@ cd textback
 
 | Variable | Default | Purpose |
 |---|---|---|
-| `TEXTBACK_HOME` | `./profiles` | where profiles are stored |
+| `TEXTBACK_HOME` | `./profiles` | where profiles are stored (`TEXTPRINT_HOME`, from the brief Textprint name, also works) |
 
 ## 3. Create your first contact
 
