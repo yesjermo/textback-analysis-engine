@@ -1,0 +1,5 @@
+# The core (parser, analyzer, offline engine, CLI, web server) uses only the Python standard library.
+
+# Reading screenshots needs no Python packages:
+#   macOS: Apple Vision (built in, used through tools/ocr_vision.swift)
+#   elsewhere: the tesseract command (brew install tesseract / apt install tesseract-ocr)
