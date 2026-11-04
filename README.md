@@ -1,4 +1,4 @@
-# TextBack
+# TextBack Analysis Engine
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](INSTALL.md#requirements)
 [![Dependencies: none](https://img.shields.io/badge/dependencies-none-brightgreen)](requirements.txt)
@@ -8,9 +8,9 @@
 [![Imports](https://img.shields.io/badge/imports-WhatsApp%20%C2%B7%20iMessage%20%C2%B7%20Telegram%20%C2%B7%20screenshots-lightgrey)](INSTALL.md#exporting-chats)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-**Learn how your boss or your friends text, then text with them.**
+**Learn how your boss, your friends, your talking stage or your ex text, analyse it, then text with them.**
 
-TextBack reads a chat export, measures how one person texts (length, casing, punctuation,
+TextBack Analysis Engine (TextBack for short) reads a chat export, measures how one person texts (length, casing, punctuation,
 emoji, slang, bursts, reply speed) and turns it into a profile that replies the way they
 would. Each time you say "they'd never say that, they'd say *this*", it saves the fix and
 replies closer to the real person next time.
@@ -39,7 +39,7 @@ you > /fix ya thats fine | just put it on the cal
 ## Quick start
 
 ```bash
-git clone <your-fork-url> textback && cd textback
+git clone <your-fork-url> textback-analysis-engine && cd textback-analysis-engine
 python3 main.py create --file examples/sample_chat.txt --target Dana --me Alex --relationship boss
 python3 main.py chat dana
 ```
@@ -130,7 +130,7 @@ In the web view, tap any of their bubbles to correct it or mark it spot-on.
 ## Project layout
 
 ```
-textback/
+textback-analysis-engine/
 ├── main.py                 CLI (create, learn, screenshots, chat, correct, approve, note, reference, serve, ...)
 ├── tools/
 │   ├── chat_parser.py      WhatsApp / plain text / CSV / JSON → messages
