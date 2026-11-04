@@ -1,0 +1,110 @@
+[
+  {
+    "id": "dana",
+    "name": "Dana",
+    "target": "Dana",
+    "me": "Alex",
+    "relationship": "boss",
+    "about": "Dana, Alex's manager. Short, lowercase, bursts of two texts, a 👍 or 🙌 now and then.",
+    "file": "examples/sample_chat.txt",
+    "format": "WhatsApp (iPhone)",
+    "messages": 106,
+    "their_messages": 72
+  },
+  {
+    "id": "marcus",
+    "name": "Marcus",
+    "target": "Marcus",
+    "me": "Nina",
+    "relationship": "coworker",
+    "about": "Marcus, 34, a coworker on the same dev team. Dry humour, full punctuation, one text at a time.",
+    "file": "examples/samples/marcus.txt",
+    "format": "WhatsApp (Android)",
+    "messages": 182,
+    "their_messages": 106
+  },
+  {
+    "id": "priya",
+    "name": "Priya",
+    "target": "Priya",
+    "me": "Alex",
+    "relationship": "client",
+    "about": "Priya, 41, Alex's client at a retail brand. Formal, full sentences, always punctuated.",
+    "file": "examples/samples/priya.csv",
+    "format": "iMessage CSV",
+    "messages": 208,
+    "their_messages": 110
+  },
+  {
+    "id": "jordan",
+    "name": "Jordan",
+    "target": "Jordan",
+    "me": "Kai",
+    "relationship": "best friend",
+    "about": "Jordan, 21, Kai's best friend from college. All lowercase, bursts of texts, lots of 😭 and 💀.",
+    "file": "examples/samples/jordan.txt",
+    "format": "WhatsApp (iPhone)",
+    "messages": 375,
+    "their_messages": 255
+  },
+  {
+    "id": "mom",
+    "name": "Mom",
+    "target": "Mom",
+    "me": "Emily",
+    "relationship": "parent",
+    "about": "Linda (\"Mom\"), 58, Emily's mother. Capitalised sentences, ellipses, 😊 and ❤️, checks in a lot.",
+    "file": "examples/samples/mom.csv",
+    "format": "iMessage CSV",
+    "messages": 190,
+    "their_messages": 120
+  },
+  {
+    "id": "sam",
+    "name": "Sam",
+    "target": "Sam",
+    "me": "Riley",
+    "relationship": "talking stage",
+    "about": "Sam, 26, someone Riley has been talking to for a month. Interested but unhurried; slow replies, asks questions back.",
+    "file": "examples/samples/sam.txt",
+    "format": "WhatsApp (iPhone)",
+    "messages": 184,
+    "their_messages": 118
+  },
+  {
+    "id": "taylor",
+    "name": "Taylor",
+    "target": "Taylor",
+    "me": "Jamie",
+    "relationship": "ex",
+    "about": "Taylor, 28, Jamie's ex of four months. Guarded and brief, ends texts with a period, no emoji.",
+    "file": "examples/samples/taylor.txt",
+    "format": "plain \"Name: text\"",
+    "messages": 238,
+    "their_messages": 128
+  },
+  {
+    "id": "mateo",
+    "name": "Mateo",
+    "target": "Mateo",
+    "me": "Sofia",
+    "relationship": "sibling",
+    "about": "Mateo, 19, Sofia's little brother. Teasing, lowercase, laughs with \"jaja\", asks for favours.",
+    "file": "examples/samples/mateo.json",
+    "format": "Telegram JSON",
+    "messages": 217,
+    "their_messages": 147
+  },
+  {
+    "id": "keisha",
+    "name": "Keisha",
+    "target": "Keisha",
+    "me": "Dee",
+    "relationship": "friend",
+    "about": "Keisha, 44, Dee's friend from church. Long voice-to-text messages, warm, punctuated, a 😂 here and there.",
+    "file": "examples/samples/keisha.txt",
+    "format": "WhatsApp (Android)",
+    "messages": 235,
+    "their_messages": 142
+  }
+]

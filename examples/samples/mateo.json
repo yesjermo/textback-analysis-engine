@@ -1,0 +1,1525 @@
+{
+ "name": "Sofia & Mateo",
+ "type": "personal_chat",
+ "messages": [
+  {
+   "id": 1,
+   "type": "message",
+   "date": "2026-01-11T11:25:55",
+   "from": "Sofia",
+   "text": "i got the apartment!!"
+  },
+  {
+   "id": 2,
+   "type": "message",
+   "date": "2026-01-11T11:32:17",
+   "from": "Mateo",
+   "text": "no way"
+  },
+  {
+   "id": 3,
+   "type": "message",
+   "date": "2026-01-11T11:32:48",
+   "from": "Mateo",
+   "text": "congrats sis"
+  },
+  {
+   "id": 4,
+   "type": "message",
+   "date": "2026-01-11T11:33:01",
+   "from": "Mateo",
+   "text": "do i get a key"
+  },
+  {
+   "id": 5,
+   "type": "message",
+   "date": "2026-01-13T11:47:16",
+   "from": "Sofia",
+   "text": "remember when you broke the window with a baseball"
+  },
+  {
+   "id": 6,
+   "type": "message",
+   "date": "2026-01-13T12:16:09",
+   "from": "Mateo",
+   "text": "that was YOU"
+  },
+  {
+   "id": 7,
+   "type": "message",
+   "date": "2026-01-13T12:16:44",
+   "from": "Mateo",
+   "text": "i was framed"
+  },
+  {
+   "id": 8,
+   "type": "message",
+   "date": "2026-01-14T14:18:12",
+   "from": "Sofia",
+   "text": "can you send me abuela's tamales recipe"
+  },
+  {
+   "id": 9,
+   "type": "message",
+   "date": "2026-01-14T14:22:32",
+   "from": "Mateo",
+   "text": "ask mom"
+  },
+  {
+   "id": 10,
+   "type": "message",
+   "date": "2026-01-14T14:22:39",
+   "from": "Mateo",
+   "text": "i only know how to eat them jaja"
+  },
+  {
+   "id": 11,
+   "type": "message",
+   "date": "2026-01-18T10:13:54",
+   "from": "Sofia",
+   "text": "are you ok? mom said you were sick"
+  },
+  {
+   "id": 12,
+   "type": "message",
+   "date": "2026-01-18T10:49:32",
+   "from": "Mateo",
+   "text": "ya just a cold"
+  },
+  {
+   "id": 13,
+   "type": "message",
+   "date": "2026-01-18T10:50:03",
+   "from": "Mateo",
+   "text": "im fine dont worry"
+  },
+  {
+   "id": 14,
+   "type": "message",
+   "date": "2026-01-19T21:16:52",
+   "from": "Mateo",
+   "text": "bro"
+  },
+  {
+   "id": 15,
+   "type": "message",
+   "date": "2026-01-19T21:34:52",
+   "from": "Sofia",
+   "text": "what"
+  },
+  {
+   "id": 16,
+   "type": "message",
+   "date": "2026-01-19T21:46:37",
+   "from": "Mateo",
+   "text": "mom is asking if you're coming sunday"
+  },
+  {
+   "id": 17,
+   "type": "message",
+   "date": "2026-01-19T21:46:54",
+   "from": "Mateo",
+   "text": "say yes or she'll call you 5 times"
+  },
+  {
+   "id": 18,
+   "type": "message",
+   "date": "2026-01-19T21:49:02",
+   "from": "Sofia",
+   "text": "yes im coming"
+  },
+  {
+   "id": 19,
+   "type": "message",
+   "date": "2026-01-19T21:51:12",
+   "from": "Mateo",
+   "text": "good. bring the good chips this time"
+  },
+  {
+   "id": 20,
+   "type": "message",
+   "date": "2026-01-23T12:13:10",
+   "from": "Sofia",
+   "text": "are you ok? mom said you were sick"
+  },
+  {
+   "id": 21,
+   "type": "message",
+   "date": "2026-01-23T12:18:08",
+   "from": "Mateo",
+   "text": "ya just a cold"
+  },
+  {
+   "id": 22,
+   "type": "message",
+   "date": "2026-01-23T12:18:14",
+   "from": "Mateo",
+   "text": "im fine dont worry"
+  },
+  {
+   "id": 23,
+   "type": "message",
+   "date": "2026-01-25T19:28:36",
+   "from": "Sofia",
+   "text": "happy birthday baby bro"
+  },
+  {
+   "id": 24,
+   "type": "message",
+   "date": "2026-01-25T19:29:45",
+   "from": "Mateo",
+   "text": "gracias 🙏"
+  },
+  {
+   "id": 25,
+   "type": "message",
+   "date": "2026-01-25T19:30:24",
+   "from": "Mateo",
+   "text": "where's my present"
+  },
+  {
+   "id": 26,
+   "type": "message",
+   "date": "2026-01-27T16:18:12",
+   "from": "Sofia",
+   "text": "what do you want for christmas"
+  },
+  {
+   "id": 27,
+   "type": "message",
+   "date": "2026-01-27T16:20:25",
+   "from": "Mateo",
+   "text": "money"
+  },
+  {
+   "id": 28,
+   "type": "message",
+   "date": "2026-01-27T16:20:38",
+   "from": "Mateo",
+   "text": "jk"
+  },
+  {
+   "id": 29,
+   "type": "message",
+   "date": "2026-01-27T16:20:48",
+   "from": "Mateo",
+   "text": "ok not jk"
+  },
+  {
+   "id": 30,
+   "type": "message",
+   "date": "2026-01-28T13:57:59",
+   "from": "Mateo",
+   "text": "jajaja look at this pic of you from 2012"
+  },
+  {
+   "id": 31,
+   "type": "message",
+   "date": "2026-01-28T14:00:04",
+   "from": "Sofia",
+   "text": "DELETE THAT"
+  },
+  {
+   "id": 32,
+   "type": "message",
+   "date": "2026-01-28T14:01:18",
+   "from": "Mateo",
+   "text": "already sent it to the family chat"
+  },
+  {
+   "id": 33,
+   "type": "message",
+   "date": "2026-02-01T12:55:27",
+   "from": "Mateo",
+   "text": "can i borrow your car saturday"
+  },
+  {
+   "id": 34,
+   "type": "message",
+   "date": "2026-02-01T13:33:05",
+   "from": "Sofia",
+   "text": "what for"
+  },
+  {
+   "id": 35,
+   "type": "message",
+   "date": "2026-02-01T13:55:45",
+   "from": "Mateo",
+   "text": "date 😎"
+  },
+  {
+   "id": 36,
+   "type": "message",
+   "date": "2026-02-01T14:15:41",
+   "from": "Sofia",
+   "text": "fine but fill the tank"
+  },
+  {
+   "id": 37,
+   "type": "message",
+   "date": "2026-02-01T14:18:17",
+   "from": "Mateo",
+   "text": "deal"
+  },
+  {
+   "id": 38,
+   "type": "message",
+   "date": "2026-02-01T14:18:36",
+   "from": "Mateo",
+   "text": "ur the best sister"
+  },
+  {
+   "id": 39,
+   "type": "message",
+   "date": "2026-02-01T14:19:03",
+   "from": "Mateo",
+   "text": "sometimes"
+  },
+  {
+   "id": 40,
+   "type": "message",
+   "date": "2026-02-02T12:58:40",
+   "from": "Mateo",
+   "text": "bro"
+  },
+  {
+   "id": 41,
+   "type": "message",
+   "date": "2026-02-02T13:54:52",
+   "from": "Sofia",
+   "text": "what"
+  },
+  {
+   "id": 42,
+   "type": "message",
+   "date": "2026-02-02T14:36:14",
+   "from": "Mateo",
+   "text": "mom is asking if you're coming sunday"
+  },
+  {
+   "id": 43,
+   "type": "message",
+   "date": "2026-02-02T14:36:39",
+   "from": "Mateo",
+   "text": "say yes or she'll call you 5 times"
+  },
+  {
+   "id": 44,
+   "type": "message",
+   "date": "2026-02-02T14:38:44",
+   "from": "Sofia",
+   "text": "yes im coming"
+  },
+  {
+   "id": 45,
+   "type": "message",
+   "date": "2026-02-02T15:20:22",
+   "from": "Mateo",
+   "text": "good. bring the good chips this time"
+  },
+  {
+   "id": 46,
+   "type": "message",
+   "date": "2026-02-03T14:47:00",
+   "from": "Sofia",
+   "text": "thanks for helping me move"
+  },
+  {
+   "id": 47,
+   "type": "message",
+   "date": "2026-02-03T14:55:00",
+   "from": "Mateo",
+   "text": "anytime"
+  },
+  {
+   "id": 48,
+   "type": "message",
+   "date": "2026-02-03T14:55:20",
+   "from": "Mateo",
+   "text": "you owe me pizza tho"
+  },
+  {
+   "id": 49,
+   "type": "message",
+   "date": "2026-02-04T12:29:49",
+   "from": "Mateo",
+   "text": "bro"
+  },
+  {
+   "id": 50,
+   "type": "message",
+   "date": "2026-02-04T12:42:31",
+   "from": "Sofia",
+   "text": "what"
+  },
+  {
+   "id": 51,
+   "type": "message",
+   "date": "2026-02-04T12:54:41",
+   "from": "Mateo",
+   "text": "mom is asking if you're coming sunday"
+  },
+  {
+   "id": 52,
+   "type": "message",
+   "date": "2026-02-04T12:55:02",
+   "from": "Mateo",
+   "text": "say yes or she'll call you 5 times"
+  },
+  {
+   "id": 53,
+   "type": "message",
+   "date": "2026-02-04T13:00:58",
+   "from": "Sofia",
+   "text": "yes im coming"
+  },
+  {
+   "id": 54,
+   "type": "message",
+   "date": "2026-02-04T13:44:48",
+   "from": "Mateo",
+   "text": "good. bring the good chips this time"
+  },
+  {
+   "id": 55,
+   "type": "message",
+   "date": "2026-02-08T18:40:22",
+   "from": "Mateo",
+   "text": "jajaja look at this pic of you from 2012"
+  },
+  {
+   "id": 56,
+   "type": "message",
+   "date": "2026-02-08T18:42:50",
+   "from": "Sofia",
+   "text": "DELETE THAT"
+  },
+  {
+   "id": 57,
+   "type": "message",
+   "date": "2026-02-08T18:58:47",
+   "from": "Mateo",
+   "text": "already sent it to the family chat"
+  },
+  {
+   "id": 58,
+   "type": "message",
+   "date": "2026-02-10T15:55:10",
+   "from": "Sofia",
+   "text": "happy birthday baby bro"
+  },
+  {
+   "id": 59,
+   "type": "message",
+   "date": "2026-02-10T16:26:59",
+   "from": "Mateo",
+   "text": "thanks old lady jaja"
+  },
+  {
+   "id": 60,
+   "type": "message",
+   "date": "2026-02-12T10:46:39",
+   "from": "Mateo",
+   "text": "jajaja look at this pic of you from 2012"
+  },
+  {
+   "id": 61,
+   "type": "message",
+   "date": "2026-02-12T10:54:40",
+   "from": "Sofia",
+   "text": "DELETE THAT"
+  },
+  {
+   "id": 62,
+   "type": "message",
+   "date": "2026-02-12T11:01:42",
+   "from": "Mateo",
+   "text": "already sent it to the family chat"
+  },
+  {
+   "id": 63,
+   "type": "message",
+   "date": "2026-02-13T20:47:50",
+   "from": "Sofia",
+   "text": "where are you? mom is worried"
+  },
+  {
+   "id": 64,
+   "type": "message",
+   "date": "2026-02-13T20:52:34",
+   "from": "Mateo",
+   "text": "omw home"
+  },
+  {
+   "id": 65,
+   "type": "message",
+   "date": "2026-02-13T20:52:42",
+   "from": "Mateo",
+   "text": "tell her im alive"
+  },
+  {
+   "id": 66,
+   "type": "message",
+   "date": "2026-02-14T15:45:10",
+   "from": "Sofia",
+   "text": "i got the apartment!!"
+  },
+  {
+   "id": 67,
+   "type": "message",
+   "date": "2026-02-14T15:46:19",
+   "from": "Mateo",
+   "text": "no way"
+  },
+  {
+   "id": 68,
+   "type": "message",
+   "date": "2026-02-14T15:46:38",
+   "from": "Mateo",
+   "text": "congrats sis"
+  },
+  {
+   "id": 69,
+   "type": "message",
+   "date": "2026-02-14T15:47:07",
+   "from": "Mateo",
+   "text": "do i get a key"
+  },
+  {
+   "id": 70,
+   "type": "message",
+   "date": "2026-02-16T11:58:17",
+   "from": "Sofia",
+   "text": "where are you? mom is worried"
+  },
+  {
+   "id": 71,
+   "type": "message",
+   "date": "2026-02-16T12:06:22",
+   "from": "Mateo",
+   "text": "at marcos house"
+  },
+  {
+   "id": 72,
+   "type": "message",
+   "date": "2026-02-16T12:06:45",
+   "from": "Mateo",
+   "text": "chill jaja"
+  },
+  {
+   "id": 73,
+   "type": "message",
+   "date": "2026-02-17T18:37:20",
+   "from": "Sofia",
+   "text": "how was the game?"
+  },
+  {
+   "id": 74,
+   "type": "message",
+   "date": "2026-02-17T18:51:56",
+   "from": "Mateo",
+   "text": "WE WON"
+  },
+  {
+   "id": 75,
+   "type": "message",
+   "date": "2026-02-17T18:52:33",
+   "from": "Mateo",
+   "text": "scored twice btw"
+  },
+  {
+   "id": 76,
+   "type": "message",
+   "date": "2026-02-20T12:11:31",
+   "from": "Sofia",
+   "text": "did you finish your college apps?"
+  },
+  {
+   "id": 77,
+   "type": "message",
+   "date": "2026-02-20T12:19:17",
+   "from": "Mateo",
+   "text": "almost"
+  },
+  {
+   "id": 78,
+   "type": "message",
+   "date": "2026-02-20T12:19:33",
+   "from": "Mateo",
+   "text": "dont tell mom"
+  },
+  {
+   "id": 79,
+   "type": "message",
+   "date": "2026-02-24T16:31:51",
+   "from": "Mateo",
+   "text": "can i borrow your car saturday"
+  },
+  {
+   "id": 80,
+   "type": "message",
+   "date": "2026-02-24T16:55:14",
+   "from": "Sofia",
+   "text": "what for"
+  },
+  {
+   "id": 81,
+   "type": "message",
+   "date": "2026-02-24T17:05:30",
+   "from": "Mateo",
+   "text": "to drive it"
+  },
+  {
+   "id": 82,
+   "type": "message",
+   "date": "2026-02-24T17:05:50",
+   "from": "Mateo",
+   "text": "obviously"
+  },
+  {
+   "id": 83,
+   "type": "message",
+   "date": "2026-02-24T17:10:26",
+   "from": "Sofia",
+   "text": "fine but fill the tank"
+  },
+  {
+   "id": 84,
+   "type": "message",
+   "date": "2026-02-24T17:49:01",
+   "from": "Mateo",
+   "text": "deal"
+  },
+  {
+   "id": 85,
+   "type": "message",
+   "date": "2026-02-24T17:49:07",
+   "from": "Mateo",
+   "text": "ur the best sister"
+  },
+  {
+   "id": 86,
+   "type": "message",
+   "date": "2026-02-24T17:49:24",
+   "from": "Mateo",
+   "text": "sometimes"
+  },
+  {
+   "id": 87,
+   "type": "message",
+   "date": "2026-02-26T14:00:28",
+   "from": "Sofia",
+   "text": "i got the apartment!!"
+  },
+  {
+   "id": 88,
+   "type": "message",
+   "date": "2026-02-26T14:08:34",
+   "from": "Mateo",
+   "text": "no way"
+  },
+  {
+   "id": 89,
+   "type": "message",
+   "date": "2026-02-26T14:09:12",
+   "from": "Mateo",
+   "text": "congrats sis"
+  },
+  {
+   "id": 90,
+   "type": "message",
+   "date": "2026-02-26T14:09:43",
+   "from": "Mateo",
+   "text": "do i get a key"
+  },
+  {
+   "id": 91,
+   "type": "message",
+   "date": "2026-03-02T20:54:36",
+   "from": "Mateo",
+   "text": "can i borrow your car saturday"
+  },
+  {
+   "id": 92,
+   "type": "message",
+   "date": "2026-03-02T20:59:52",
+   "from": "Sofia",
+   "text": "what for"
+  },
+  {
+   "id": 93,
+   "type": "message",
+   "date": "2026-03-02T21:04:09",
+   "from": "Mateo",
+   "text": "date 😎"
+  },
+  {
+   "id": 94,
+   "type": "message",
+   "date": "2026-03-02T21:50:05",
+   "from": "Sofia",
+   "text": "fine but fill the tank"
+  },
+  {
+   "id": 95,
+   "type": "message",
+   "date": "2026-03-02T21:51:06",
+   "from": "Mateo",
+   "text": "deal"
+  },
+  {
+   "id": 96,
+   "type": "message",
+   "date": "2026-03-02T21:51:31",
+   "from": "Mateo",
+   "text": "ur the best sister"
+  },
+  {
+   "id": 97,
+   "type": "message",
+   "date": "2026-03-02T21:51:37",
+   "from": "Mateo",
+   "text": "sometimes"
+  },
+  {
+   "id": 98,
+   "type": "message",
+   "date": "2026-03-05T15:50:28",
+   "from": "Mateo",
+   "text": "bro"
+  },
+  {
+   "id": 99,
+   "type": "message",
+   "date": "2026-03-05T15:54:24",
+   "from": "Sofia",
+   "text": "what"
+  },
+  {
+   "id": 100,
+   "type": "message",
+   "date": "2026-03-05T16:26:29",
+   "from": "Mateo",
+   "text": "mom is asking if you're coming sunday"
+  },
+  {
+   "id": 101,
+   "type": "message",
+   "date": "2026-03-05T16:27:00",
+   "from": "Mateo",
+   "text": "say yes or she'll call you 5 times"
+  },
+  {
+   "id": 102,
+   "type": "message",
+   "date": "2026-03-05T16:31:17",
+   "from": "Sofia",
+   "text": "yes im coming"
+  },
+  {
+   "id": 103,
+   "type": "message",
+   "date": "2026-03-05T16:32:25",
+   "from": "Mateo",
+   "text": "good. bring the good chips this time"
+  },
+  {
+   "id": 104,
+   "type": "message",
+   "date": "2026-03-07T22:12:46",
+   "from": "Sofia",
+   "text": "how was the game?"
+  },
+  {
+   "id": 105,
+   "type": "message",
+   "date": "2026-03-07T22:41:45",
+   "from": "Mateo",
+   "text": "we lost"
+  },
+  {
+   "id": 106,
+   "type": "message",
+   "date": "2026-03-07T22:41:52",
+   "from": "Mateo",
+   "text": "ref was blind"
+  },
+  {
+   "id": 107,
+   "type": "message",
+   "date": "2026-03-08T12:57:38",
+   "from": "Mateo",
+   "text": "bro"
+  },
+  {
+   "id": 108,
+   "type": "message",
+   "date": "2026-03-08T13:11:29",
+   "from": "Sofia",
+   "text": "what"
+  },
+  {
+   "id": 109,
+   "type": "message",
+   "date": "2026-03-08T13:16:15",
+   "from": "Mateo",
+   "text": "mom is asking if you're coming sunday"
+  },
+  {
+   "id": 110,
+   "type": "message",
+   "date": "2026-03-08T13:16:32",
+   "from": "Mateo",
+   "text": "say yes or she'll call you 5 times"
+  },
+  {
+   "id": 111,
+   "type": "message",
+   "date": "2026-03-08T13:59:56",
+   "from": "Sofia",
+   "text": "yes im coming"
+  },
+  {
+   "id": 112,
+   "type": "message",
+   "date": "2026-03-08T14:00:56",
+   "from": "Mateo",
+   "text": "good. bring the good chips this time"
+  },
+  {
+   "id": 113,
+   "type": "message",
+   "date": "2026-03-09T11:17:35",
+   "from": "Sofia",
+   "text": "what do you want for christmas"
+  },
+  {
+   "id": 114,
+   "type": "message",
+   "date": "2026-03-09T11:18:36",
+   "from": "Mateo",
+   "text": "money"
+  },
+  {
+   "id": 115,
+   "type": "message",
+   "date": "2026-03-09T11:18:57",
+   "from": "Mateo",
+   "text": "jk"
+  },
+  {
+   "id": 116,
+   "type": "message",
+   "date": "2026-03-09T11:19:08",
+   "from": "Mateo",
+   "text": "ok not jk"
+  },
+  {
+   "id": 117,
+   "type": "message",
+   "date": "2026-03-10T13:47:03",
+   "from": "Mateo",
+   "text": "bro"
+  },
+  {
+   "id": 118,
+   "type": "message",
+   "date": "2026-03-10T14:34:56",
+   "from": "Sofia",
+   "text": "what"
+  },
+  {
+   "id": 119,
+   "type": "message",
+   "date": "2026-03-10T14:46:53",
+   "from": "Mateo",
+   "text": "mom is asking if you're coming sunday"
+  },
+  {
+   "id": 120,
+   "type": "message",
+   "date": "2026-03-10T14:47:21",
+   "from": "Mateo",
+   "text": "say yes or she'll call you 5 times"
+  },
+  {
+   "id": 121,
+   "type": "message",
+   "date": "2026-03-10T15:25:45",
+   "from": "Sofia",
+   "text": "yes im coming"
+  },
+  {
+   "id": 122,
+   "type": "message",
+   "date": "2026-03-10T15:52:00",
+   "from": "Mateo",
+   "text": "good. bring the good chips this time"
+  },
+  {
+   "id": 123,
+   "type": "message",
+   "date": "2026-03-11T17:57:13",
+   "from": "Sofia",
+   "text": "where are you? mom is worried"
+  },
+  {
+   "id": 124,
+   "type": "message",
+   "date": "2026-03-11T18:00:46",
+   "from": "Mateo",
+   "text": "at marcos house"
+  },
+  {
+   "id": 125,
+   "type": "message",
+   "date": "2026-03-11T18:01:13",
+   "from": "Mateo",
+   "text": "chill jaja"
+  },
+  {
+   "id": 126,
+   "type": "message",
+   "date": "2026-03-15T15:48:14",
+   "from": "Mateo",
+   "text": "bro"
+  },
+  {
+   "id": 127,
+   "type": "message",
+   "date": "2026-03-15T16:45:31",
+   "from": "Sofia",
+   "text": "what"
+  },
+  {
+   "id": 128,
+   "type": "message",
+   "date": "2026-03-15T17:00:52",
+   "from": "Mateo",
+   "text": "mom is asking if you're coming sunday"
+  },
+  {
+   "id": 129,
+   "type": "message",
+   "date": "2026-03-15T17:01:25",
+   "from": "Mateo",
+   "text": "say yes or she'll call you 5 times"
+  },
+  {
+   "id": 130,
+   "type": "message",
+   "date": "2026-03-15T17:17:06",
+   "from": "Sofia",
+   "text": "yes im coming"
+  },
+  {
+   "id": 131,
+   "type": "message",
+   "date": "2026-03-15T17:49:00",
+   "from": "Mateo",
+   "text": "good. bring the good chips this time"
+  },
+  {
+   "id": 132,
+   "type": "message",
+   "date": "2026-03-16T10:31:53",
+   "from": "Sofia",
+   "text": "did you finish your college apps?"
+  },
+  {
+   "id": 133,
+   "type": "message",
+   "date": "2026-03-16T10:51:30",
+   "from": "Mateo",
+   "text": "almost"
+  },
+  {
+   "id": 134,
+   "type": "message",
+   "date": "2026-03-16T10:51:51",
+   "from": "Mateo",
+   "text": "dont tell mom"
+  },
+  {
+   "id": 135,
+   "type": "message",
+   "date": "2026-03-19T10:14:11",
+   "from": "Sofia",
+   "text": "are you ok? mom said you were sick"
+  },
+  {
+   "id": 136,
+   "type": "message",
+   "date": "2026-03-19T10:15:47",
+   "from": "Mateo",
+   "text": "ya just a cold"
+  },
+  {
+   "id": 137,
+   "type": "message",
+   "date": "2026-03-19T10:15:59",
+   "from": "Mateo",
+   "text": "im fine dont worry"
+  },
+  {
+   "id": 138,
+   "type": "message",
+   "date": "2026-03-21T15:41:12",
+   "from": "Sofia",
+   "text": "happy birthday baby bro"
+  },
+  {
+   "id": 139,
+   "type": "message",
+   "date": "2026-03-21T15:58:22",
+   "from": "Mateo",
+   "text": "thanks old lady jaja"
+  },
+  {
+   "id": 140,
+   "type": "message",
+   "date": "2026-03-22T19:34:00",
+   "from": "Mateo",
+   "text": "bro"
+  },
+  {
+   "id": 141,
+   "type": "message",
+   "date": "2026-03-22T19:36:19",
+   "from": "Sofia",
+   "text": "what"
+  },
+  {
+   "id": 142,
+   "type": "message",
+   "date": "2026-03-22T19:40:21",
+   "from": "Mateo",
+   "text": "mom is asking if you're coming sunday"
+  },
+  {
+   "id": 143,
+   "type": "message",
+   "date": "2026-03-22T19:40:59",
+   "from": "Mateo",
+   "text": "say yes or she'll call you 5 times"
+  },
+  {
+   "id": 144,
+   "type": "message",
+   "date": "2026-03-22T20:14:53",
+   "from": "Sofia",
+   "text": "yes im coming"
+  },
+  {
+   "id": 145,
+   "type": "message",
+   "date": "2026-03-22T20:34:33",
+   "from": "Mateo",
+   "text": "good. bring the good chips this time"
+  },
+  {
+   "id": 146,
+   "type": "message",
+   "date": "2026-03-31T10:43:58",
+   "from": "Sofia",
+   "text": "where are you? mom is worried"
+  },
+  {
+   "id": 147,
+   "type": "message",
+   "date": "2026-03-31T11:11:44",
+   "from": "Mateo",
+   "text": "omw home"
+  },
+  {
+   "id": 148,
+   "type": "message",
+   "date": "2026-03-31T11:12:12",
+   "from": "Mateo",
+   "text": "tell her im alive"
+  },
+  {
+   "id": 149,
+   "type": "message",
+   "date": "2026-04-06T18:33:02",
+   "from": "Mateo",
+   "text": "bro"
+  },
+  {
+   "id": 150,
+   "type": "message",
+   "date": "2026-04-06T19:09:36",
+   "from": "Sofia",
+   "text": "what"
+  },
+  {
+   "id": 151,
+   "type": "message",
+   "date": "2026-04-06T19:26:00",
+   "from": "Mateo",
+   "text": "mom is asking if you're coming sunday"
+  },
+  {
+   "id": 152,
+   "type": "message",
+   "date": "2026-04-06T19:26:34",
+   "from": "Mateo",
+   "text": "say yes or she'll call you 5 times"
+  },
+  {
+   "id": 153,
+   "type": "message",
+   "date": "2026-04-06T19:30:24",
+   "from": "Sofia",
+   "text": "yes im coming"
+  },
+  {
+   "id": 154,
+   "type": "message",
+   "date": "2026-04-06T19:36:12",
+   "from": "Mateo",
+   "text": "good. bring the good chips this time"
+  },
+  {
+   "id": 155,
+   "type": "message",
+   "date": "2026-04-07T13:14:27",
+   "from": "Mateo",
+   "text": "bro"
+  },
+  {
+   "id": 156,
+   "type": "message",
+   "date": "2026-04-07T14:01:11",
+   "from": "Sofia",
+   "text": "what"
+  },
+  {
+   "id": 157,
+   "type": "message",
+   "date": "2026-04-07T14:31:21",
+   "from": "Mateo",
+   "text": "mom is asking if you're coming sunday"
+  },
+  {
+   "id": 158,
+   "type": "message",
+   "date": "2026-04-07T14:31:39",
+   "from": "Mateo",
+   "text": "say yes or she'll call you 5 times"
+  },
+  {
+   "id": 159,
+   "type": "message",
+   "date": "2026-04-07T14:48:15",
+   "from": "Sofia",
+   "text": "yes im coming"
+  },
+  {
+   "id": 160,
+   "type": "message",
+   "date": "2026-04-07T14:49:16",
+   "from": "Mateo",
+   "text": "good. bring the good chips this time"
+  },
+  {
+   "id": 161,
+   "type": "message",
+   "date": "2026-04-11T22:46:51",
+   "from": "Sofia",
+   "text": "how was the game?"
+  },
+  {
+   "id": 162,
+   "type": "message",
+   "date": "2026-04-11T23:02:05",
+   "from": "Mateo",
+   "text": "we lost"
+  },
+  {
+   "id": 163,
+   "type": "message",
+   "date": "2026-04-11T23:02:39",
+   "from": "Mateo",
+   "text": "ref was blind"
+  },
+  {
+   "id": 164,
+   "type": "message",
+   "date": "2026-04-14T15:54:09",
+   "from": "Mateo",
+   "text": "bro"
+  },
+  {
+   "id": 165,
+   "type": "message",
+   "date": "2026-04-14T16:44:09",
+   "from": "Sofia",
+   "text": "what"
+  },
+  {
+   "id": 166,
+   "type": "message",
+   "date": "2026-04-14T17:19:09",
+   "from": "Mateo",
+   "text": "mom is asking if you're coming sunday"
+  },
+  {
+   "id": 167,
+   "type": "message",
+   "date": "2026-04-14T17:19:19",
+   "from": "Mateo",
+   "text": "say yes or she'll call you 5 times"
+  },
+  {
+   "id": 168,
+   "type": "message",
+   "date": "2026-04-14T17:44:22",
+   "from": "Sofia",
+   "text": "yes im coming"
+  },
+  {
+   "id": 169,
+   "type": "message",
+   "date": "2026-04-14T17:45:38",
+   "from": "Mateo",
+   "text": "good. bring the good chips this time"
+  },
+  {
+   "id": 170,
+   "type": "message",
+   "date": "2026-04-15T17:53:05",
+   "from": "Mateo",
+   "text": "bro"
+  },
+  {
+   "id": 171,
+   "type": "message",
+   "date": "2026-04-15T17:55:59",
+   "from": "Sofia",
+   "text": "what"
+  },
+  {
+   "id": 172,
+   "type": "message",
+   "date": "2026-04-15T18:37:24",
+   "from": "Mateo",
+   "text": "mom is asking if you're coming sunday"
+  },
+  {
+   "id": 173,
+   "type": "message",
+   "date": "2026-04-15T18:37:53",
+   "from": "Mateo",
+   "text": "say yes or she'll call you 5 times"
+  },
+  {
+   "id": 174,
+   "type": "message",
+   "date": "2026-04-15T19:07:15",
+   "from": "Sofia",
+   "text": "yes im coming"
+  },
+  {
+   "id": 175,
+   "type": "message",
+   "date": "2026-04-15T19:16:35",
+   "from": "Mateo",
+   "text": "good. bring the good chips this time"
+  },
+  {
+   "id": 176,
+   "type": "message",
+   "date": "2026-04-16T14:02:52",
+   "from": "Mateo",
+   "text": "bro"
+  },
+  {
+   "id": 177,
+   "type": "message",
+   "date": "2026-04-16T14:09:42",
+   "from": "Sofia",
+   "text": "what"
+  },
+  {
+   "id": 178,
+   "type": "message",
+   "date": "2026-04-16T14:20:38",
+   "from": "Mateo",
+   "text": "mom is asking if you're coming sunday"
+  },
+  {
+   "id": 179,
+   "type": "message",
+   "date": "2026-04-16T14:20:42",
+   "from": "Mateo",
+   "text": "say yes or she'll call you 5 times"
+  },
+  {
+   "id": 180,
+   "type": "message",
+   "date": "2026-04-16T14:53:25",
+   "from": "Sofia",
+   "text": "yes im coming"
+  },
+  {
+   "id": 181,
+   "type": "message",
+   "date": "2026-04-16T14:55:53",
+   "from": "Mateo",
+   "text": "good. bring the good chips this time"
+  },
+  {
+   "id": 182,
+   "type": "message",
+   "date": "2026-04-17T12:26:43",
+   "from": "Mateo",
+   "text": "bro"
+  },
+  {
+   "id": 183,
+   "type": "message",
+   "date": "2026-04-17T12:30:35",
+   "from": "Sofia",
+   "text": "what"
+  },
+  {
+   "id": 184,
+   "type": "message",
+   "date": "2026-04-17T12:32:24",
+   "from": "Mateo",
+   "text": "mom is asking if you're coming sunday"
+  },
+  {
+   "id": 185,
+   "type": "message",
+   "date": "2026-04-17T12:33:01",
+   "from": "Mateo",
+   "text": "say yes or she'll call you 5 times"
+  },
+  {
+   "id": 186,
+   "type": "message",
+   "date": "2026-04-17T12:47:01",
+   "from": "Sofia",
+   "text": "yes im coming"
+  },
+  {
+   "id": 187,
+   "type": "message",
+   "date": "2026-04-17T13:08:52",
+   "from": "Mateo",
+   "text": "good. bring the good chips this time"
+  },
+  {
+   "id": 188,
+   "type": "message",
+   "date": "2026-04-20T17:33:24",
+   "from": "Sofia",
+   "text": "remember when you broke the window with a baseball"
+  },
+  {
+   "id": 189,
+   "type": "message",
+   "date": "2026-04-20T17:34:37",
+   "from": "Mateo",
+   "text": "that was YOU"
+  },
+  {
+   "id": 190,
+   "type": "message",
+   "date": "2026-04-20T17:35:03",
+   "from": "Mateo",
+   "text": "i was framed"
+  },
+  {
+   "id": 191,
+   "type": "message",
+   "date": "2026-04-21T18:29:45",
+   "from": "Sofia",
+   "text": "remember when you broke the window with a baseball"
+  },
+  {
+   "id": 192,
+   "type": "message",
+   "date": "2026-04-21T18:31:51",
+   "from": "Mateo",
+   "text": "that was YOU"
+  },
+  {
+   "id": 193,
+   "type": "message",
+   "date": "2026-04-21T18:32:07",
+   "from": "Mateo",
+   "text": "i was framed"
+  },
+  {
+   "id": 194,
+   "type": "message",
+   "date": "2026-04-26T22:30:19",
+   "from": "Mateo",
+   "text": "bro"
+  },
+  {
+   "id": 195,
+   "type": "message",
+   "date": "2026-04-26T22:34:19",
+   "from": "Sofia",
+   "text": "what"
+  },
+  {
+   "id": 196,
+   "type": "message",
+   "date": "2026-04-26T23:11:04",
+   "from": "Mateo",
+   "text": "mom is asking if you're coming sunday"
+  },
+  {
+   "id": 197,
+   "type": "message",
+   "date": "2026-04-26T23:11:42",
+   "from": "Mateo",
+   "text": "say yes or she'll call you 5 times"
+  },
+  {
+   "id": 198,
+   "type": "message",
+   "date": "2026-04-26T23:28:55",
+   "from": "Sofia",
+   "text": "yes im coming"
+  },
+  {
+   "id": 199,
+   "type": "message",
+   "date": "2026-04-26T23:50:21",
+   "from": "Mateo",
+   "text": "good. bring the good chips this time"
+  },
+  {
+   "id": 200,
+   "type": "message",
+   "date": "2026-04-29T10:03:45",
+   "from": "Sofia",
+   "text": "did you finish your college apps?"
+  },
+  {
+   "id": 201,
+   "type": "message",
+   "date": "2026-04-29T10:04:57",
+   "from": "Mateo",
+   "text": "almost"
+  },
+  {
+   "id": 202,
+   "type": "message",
+   "date": "2026-04-29T10:05:22",
+   "from": "Mateo",
+   "text": "dont tell mom"
+  },
+  {
+   "id": 203,
+   "type": "message",
+   "date": "2026-05-02T16:25:18",
+   "from": "Sofia",
+   "text": "can you send me abuela's tamales recipe"
+  },
+  {
+   "id": 204,
+   "type": "message",
+   "date": "2026-05-02T17:03:35",
+   "from": "Mateo",
+   "text": "ask mom"
+  },
+  {
+   "id": 205,
+   "type": "message",
+   "date": "2026-05-02T17:04:09",
+   "from": "Mateo",
+   "text": "i only know how to eat them jaja"
+  },
+  {
+   "id": 206,
+   "type": "message",
+   "date": "2026-05-05T10:23:08",
+   "from": "Mateo",
+   "text": "bro"
+  },
+  {
+   "id": 207,
+   "type": "message",
+   "date": "2026-05-05T10:57:39",
+   "from": "Sofia",
+   "text": "what"
+  },
+  {
+   "id": 208,
+   "type": "message",
+   "date": "2026-05-05T11:04:56",
+   "from": "Mateo",
+   "text": "mom is asking if you're coming sunday"
+  },
+  {
+   "id": 209,
+   "type": "message",
+   "date": "2026-05-05T11:05:09",
+   "from": "Mateo",
+   "text": "say yes or she'll call you 5 times"
+  },
+  {
+   "id": 210,
+   "type": "message",
+   "date": "2026-05-05T11:25:24",
+   "from": "Sofia",
+   "text": "yes im coming"
+  },
+  {
+   "id": 211,
+   "type": "message",
+   "date": "2026-05-05T11:30:35",
+   "from": "Mateo",
+   "text": "good. bring the good chips this time"
+  },
+  {
+   "id": 212,
+   "type": "message",
+   "date": "2026-05-06T13:35:23",
+   "from": "Mateo",
+   "text": "bro"
+  },
+  {
+   "id": 213,
+   "type": "message",
+   "date": "2026-05-06T14:24:08",
+   "from": "Sofia",
+   "text": "what"
+  },
+  {
+   "id": 214,
+   "type": "message",
+   "date": "2026-05-06T14:51:56",
+   "from": "Mateo",
+   "text": "mom is asking if you're coming sunday"
+  },
+  {
+   "id": 215,
+   "type": "message",
+   "date": "2026-05-06T14:52:01",
+   "from": "Mateo",
+   "text": "say yes or she'll call you 5 times"
+  },
+  {
+   "id": 216,
+   "type": "message",
+   "date": "2026-05-06T15:02:02",
+   "from": "Sofia",
+   "text": "yes im coming"
+  },
+  {
+   "id": 217,
+   "type": "message",
+   "date": "2026-05-06T15:03:02",
+   "from": "Mateo",
+   "text": "good. bring the good chips this time"
+  }
+ ]
+}

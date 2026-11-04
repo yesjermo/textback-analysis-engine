@@ -1,0 +1,182 @@
+1/5/26, 12:03 - Nina: when is the release freeze?
+1/5/26, 12:29 - Marcus: Thursday at 5. Don't merge anything big after that.
+1/6/26, 10:43 - Nina: can you cover my on-call friday?
+1/6/26, 10:57 - Marcus: Yeah, I can do that. You owe me one.
+1/7/26, 13:36 - Nina: running 10 min late
+1/7/26, 13:38 - Marcus: No worries, I'll stall them.
+1/11/26, 13:45 - Nina: how was your weekend?
+1/11/26, 14:03 - Marcus: Good. Went climbing, now my arms don't work.
+1/11/26, 14:09 - Nina: haha nice
+1/11/26, 14:49 - Marcus: How about yours?
+1/15/26, 13:04 - Marcus: Morning. Coffee run in 10, want anything?
+1/15/26, 13:05 - Nina: im good thanks!
+1/15/26, 13:11 - Marcus: Suit yourself.
+1/18/26, 11:22 - Marcus: Standup is cancelled today, Ravi's out.
+1/18/26, 11:23 - Nina: nice
+1/18/26, 11:47 - Marcus: No problem.
+1/19/26, 14:49 - Marcus: Did you see the email from facilities? We're moving desks again.
+1/19/26, 14:50 - Nina: ugh not again
+1/19/26, 14:52 - Marcus: Third time this year. I'm starting to take it personally.
+1/20/26, 12:01 - Nina: are you going to the team dinner?
+1/20/26, 12:09 - Marcus: Probably. I'll go if there's no karaoke.
+1/21/26, 08:00 - Marcus: Morning. Coffee run in 10, want anything?
+1/21/26, 08:01 - Nina: yes please, oat latte
+1/21/26, 08:41 - Marcus: Suit yourself.
+1/24/26, 10:19 - Marcus: Standup is cancelled today, Ravi's out.
+1/24/26, 10:22 - Nina: nice
+1/24/26, 10:24 - Marcus: No problem.
+1/26/26, 09:08 - Nina: i got promoted!!
+1/26/26, 09:38 - Marcus: That's great, congrats! Well deserved.
+1/27/26, 15:21 - Marcus: Morning. Coffee run in 10, want anything?
+1/27/26, 15:22 - Nina: yes please, oat latte
+1/27/26, 15:41 - Marcus: On it.
+1/28/26, 08:56 - Nina: can you look at my PR when you get a sec?
+1/28/26, 08:59 - Marcus: Yep, send me the link.
+1/28/26, 09:01 - Nina: thanks!! no rush
+1/28/26, 09:05 - Marcus: Looks good, approved.
+1/29/26, 12:18 - Nina: i'm so tired today
+1/29/26, 12:22 - Marcus: Take a walk, it helps. Or more coffee.
+2/1/26, 09:35 - Nina: lunch today?
+2/1/26, 09:37 - Marcus: Yes. Usual place?
+2/2/26, 14:13 - Nina: where's the retro doc?
+2/2/26, 14:47 - Marcus: Pinned in the channel.
+2/3/26, 16:39 - Marcus: Heads up, the 2pm got moved to 3.
+2/3/26, 16:43 - Nina: thanks for the heads up
+2/3/26, 16:48 - Marcus: No problem.
+2/5/26, 15:08 - Nina: are you going to the team dinner?
+2/5/26, 15:10 - Marcus: Yes, but I'm leaving early.
+2/6/26, 16:29 - Marcus: Heads up, the 2pm got moved to 3.
+2/6/26, 16:34 - Nina: nice
+2/6/26, 16:41 - Marcus: No problem.
+2/7/26, 13:45 - Marcus: Morning. Coffee run in 10, want anything?
+2/7/26, 13:53 - Nina: im good thanks!
+2/7/26, 14:27 - Marcus: Suit yourself.
+2/9/26, 14:45 - Nina: what do you think about the new roadmap?
+2/9/26, 14:59 - Marcus: I like the first half. The second half is a wish list.
+2/10/26, 09:00 - Marcus: Did you see the email from facilities? We're moving desks again.
+2/10/26, 09:12 - Nina: ugh not again
+2/10/26, 09:17 - Marcus: Third time this year. I'm starting to take it personally.
+2/12/26, 13:56 - Marcus: Standup is cancelled today, Ravi's out.
+2/12/26, 14:08 - Nina: nice
+2/12/26, 14:15 - Marcus: No problem.
+2/13/26, 15:55 - Nina: do you know who owns the billing service?
+2/13/26, 16:08 - Marcus: Pretty sure it's Hannah's team now.
+2/14/26, 11:09 - Marcus: Heads up, the 2pm got moved to 3.
+2/14/26, 11:22 - Nina: thanks for the heads up
+2/14/26, 11:49 - Marcus: No problem.
+2/15/26, 11:26 - Nina: where's the retro doc?
+2/15/26, 11:46 - Marcus: In the team folder, under Q3.
+2/18/26, 14:06 - Nina: the build is broken again
+2/18/26, 14:11 - Marcus: Was it me? Please say it wasn't me.
+2/18/26, 14:17 - Nina: lol it was the migration
+2/18/26, 14:26 - Marcus: Classic. I'll ping Ravi.
+2/19/26, 15:10 - Nina: did you finish the slides?
+2/19/26, 15:12 - Marcus: Done, they're in the drive.
+2/20/26, 14:09 - Nina: thanks for the help earlier
+2/20/26, 14:13 - Marcus: Of course. That bug was nasty.
+2/23/26, 10:27 - Marcus: Morning. Coffee run in 10, want anything?
+2/23/26, 10:29 - Nina: yes please, oat latte
+2/23/26, 10:32 - Marcus: On it.
+2/26/26, 11:23 - Nina: sorry i snapped in the meeting
+2/26/26, 11:28 - Marcus: Don't worry about it. It was a frustrating meeting 🙃
+2/28/26, 09:55 - Nina: how was your weekend?
+2/28/26, 10:33 - Marcus: Good. Went climbing, now my arms don't work.
+2/28/26, 10:35 - Nina: haha nice
+2/28/26, 10:40 - Marcus: How about yours?
+3/1/26, 14:54 - Nina: where's the retro doc?
+3/1/26, 14:58 - Marcus: Pinned in the channel.
+3/3/26, 11:00 - Marcus: Did you see the email from facilities? We're moving desks again.
+3/3/26, 11:02 - Nina: ugh not again
+3/3/26, 11:37 - Marcus: Third time this year. I'm starting to take it personally.
+3/4/26, 14:49 - Nina: lunch today?
+3/4/26, 15:16 - Marcus: Can't today, drowning in tickets. Tomorrow?
+3/6/26, 13:02 - Nina: sorry i snapped in the meeting
+3/6/26, 13:38 - Marcus: Don't worry about it. It was a frustrating meeting 🙃
+3/9/26, 13:09 - Marcus: Heads up, the 2pm got moved to 3.
+3/9/26, 13:13 - Nina: nice
+3/9/26, 13:28 - Marcus: No problem.
+3/10/26, 16:15 - Nina: i'm so tired today
+3/10/26, 16:17 - Marcus: Take a walk, it helps. Or more coffee.
+3/11/26, 11:43 - Nina: can you cover my on-call friday?
+3/11/26, 11:47 - Marcus: Friday's tough, I'm out. Maybe ask Jess?
+3/12/26, 12:43 - Marcus: Heads up, the 2pm got moved to 3.
+3/12/26, 12:46 - Nina: thanks for the heads up
+3/12/26, 13:20 - Marcus: No problem.
+3/13/26, 08:19 - Nina: can you look at my PR when you get a sec?
+3/13/26, 08:21 - Marcus: Sure, after standup.
+3/13/26, 08:23 - Nina: thanks!! no rush
+3/13/26, 08:27 - Marcus: Looks good, approved.
+3/14/26, 09:06 - Nina: did you finish the slides?
+3/14/26, 09:25 - Marcus: Almost. Sending by 4.
+3/16/26, 12:45 - Nina: when is the release freeze?
+3/16/26, 13:15 - Marcus: Thursday at 5. Don't merge anything big after that.
+3/17/26, 15:39 - Marcus: Morning. Coffee run in 10, want anything?
+3/17/26, 15:52 - Nina: yes please, oat latte
+3/17/26, 16:24 - Marcus: Suit yourself.
+3/18/26, 09:57 - Marcus: Morning. Coffee run in 10, want anything?
+3/18/26, 09:58 - Nina: yes please, oat latte
+3/18/26, 10:01 - Marcus: On it.
+3/19/26, 15:29 - Marcus: Standup is cancelled today, Ravi's out.
+3/19/26, 15:30 - Nina: thanks for the heads up
+3/19/26, 15:32 - Marcus: No problem.
+3/21/26, 09:02 - Nina: train is delayed, be there in 15
+3/21/26, 09:27 - Marcus: No worries, I'll stall them.
+3/22/26, 09:19 - Marcus: Heads up, the 2pm got moved to 3.
+3/22/26, 09:20 - Nina: thanks for the heads up
+3/22/26, 09:59 - Marcus: No problem.
+3/24/26, 08:41 - Marcus: Heads up, the 2pm got moved to 3.
+3/24/26, 08:44 - Nina: nice
+3/24/26, 08:55 - Marcus: No problem.
+3/25/26, 13:42 - Nina: can you look at my PR when you get a sec?
+3/25/26, 13:45 - Marcus: Sure, after standup.
+3/25/26, 13:47 - Nina: thanks!! no rush
+3/25/26, 13:54 - Marcus: Looks good, approved.
+3/26/26, 10:54 - Marcus: Morning. Coffee run in 10, want anything?
+3/26/26, 10:59 - Nina: im good thanks!
+3/26/26, 11:10 - Marcus: On it.
+3/29/26, 14:41 - Nina: what do you think about the new roadmap?
+3/29/26, 14:43 - Marcus: I like the first half. The second half is a wish list.
+3/30/26, 14:54 - Nina: do you know who owns the billing service?
+3/30/26, 14:57 - Marcus: Ask in #platform, they'll know.
+3/31/26, 12:13 - Nina: running 10 min late
+3/31/26, 12:52 - Marcus: All good, we haven't started.
+4/2/26, 11:02 - Marcus: Standup is cancelled today, Ravi's out.
+4/2/26, 11:06 - Nina: thanks for the heads up
+4/2/26, 11:17 - Marcus: No problem.
+4/3/26, 14:51 - Marcus: Morning. Coffee run in 10, want anything?
+4/3/26, 14:57 - Nina: yes please, oat latte
+4/3/26, 15:01 - Marcus: On it.
+4/4/26, 13:49 - Marcus: Morning. Coffee run in 10, want anything?
+4/4/26, 13:51 - Nina: yes please, oat latte
+4/4/26, 14:24 - Marcus: Suit yourself.
+4/6/26, 15:37 - Nina: thanks for the help earlier
+4/6/26, 16:02 - Marcus: Of course. That bug was nasty.
+4/7/26, 16:35 - Nina: when is the release freeze?
+4/7/26, 16:42 - Marcus: Thursday at 5. Don't merge anything big after that.
+4/10/26, 16:30 - Nina: can you cover my on-call friday?
+4/10/26, 16:41 - Marcus: Friday's tough, I'm out. Maybe ask Jess?
+4/12/26, 13:02 - Marcus: Standup is cancelled today, Ravi's out.
+4/12/26, 13:03 - Nina: nice
+4/12/26, 13:17 - Marcus: No problem.
+4/14/26, 16:04 - Nina: lunch today?
+4/14/26, 16:18 - Marcus: Yes. Usual place?
+4/16/26, 11:51 - Nina: are you going to the team dinner?
+4/16/26, 12:29 - Marcus: Yes, but I'm leaving early.
+4/17/26, 09:17 - Nina: thanks for the help earlier
+4/17/26, 09:20 - Marcus: Anytime.
+4/18/26, 11:12 - Marcus: Morning. Coffee run in 10, want anything?
+4/18/26, 11:15 - Nina: yes please, oat latte
+4/18/26, 11:32 - Marcus: On it.
+4/19/26, 11:16 - Marcus: Heads up, the 2pm got moved to 3.
+4/19/26, 11:24 - Nina: nice
+4/19/26, 11:34 - Marcus: No problem.
+4/20/26, 10:28 - Marcus: Heads up, the 2pm got moved to 3.
+4/20/26, 10:36 - Nina: nice
+4/20/26, 11:12 - Marcus: No problem.
+4/21/26, 15:54 - Nina: running 10 min late
+4/21/26, 15:56 - Marcus: No worries, I'll stall them.
+4/22/26, 08:55 - Marcus: Morning. Coffee run in 10, want anything?
+4/22/26, 09:03 - Nina: yes please, oat latte
+4/22/26, 09:16 - Marcus: On it.
+4/24/26, 11:02 - Nina: train is delayed, be there in 15
+4/24/26, 11:30 - Marcus: No worries, I'll stall them.

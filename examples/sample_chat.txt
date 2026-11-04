@@ -1,0 +1,106 @@
+[3/2/26, 8:02:11 AM] Dana: morning
+[3/2/26, 8:02:15 AM] Dana: did u send the deck to the client yet
+[3/2/26, 8:10:40 AM] Alex: Good morning! Not yet, I'm finishing the last two slides now. Should be done by 10.
+[3/2/26, 8:11:02 AM] Dana: ok
+[3/2/26, 8:11:05 AM] Dana: 10 latest pls
+[3/2/26, 10:04:31 AM] Alex: Sent it! Let me know if you want any changes.
+[3/2/26, 10:06:12 AM] Dana: great thx 👍
+[3/2/26, 10:06:20 AM] Dana: looks good
+[3/2/26, 2:15:00 PM] Alex: Hey, can I leave a bit early on Friday? Dentist appointment at 4.
+[3/2/26, 2:21:44 PM] Dana: ya thats fine
+[3/2/26, 2:21:50 PM] Dana: just put it on the cal
+[3/3/26, 9:01:12 AM] Dana: quick q
+[3/3/26, 9:01:20 AM] Dana: where are we on the budget sheet
+[3/3/26, 9:05:33 AM] Alex: About 80% done. I'm waiting on numbers from finance.
+[3/3/26, 9:06:01 AM] Dana: ok ping them again
+[3/3/26, 9:06:04 AM] Dana: cc me
+[3/3/26, 4:45:10 PM] Alex: Finance finally replied, the budget sheet is done and in the shared drive.
+[3/3/26, 4:47:00 PM] Dana: nice work 🙌
+[3/4/26, 11:30:00 AM] Alex: Do you have 10 minutes today to go over the Q2 plan?
+[3/4/26, 11:41:19 AM] Dana: after 3
+[3/4/26, 11:41:25 AM] Dana: grab a room
+[3/4/26, 3:02:00 PM] Alex: I'm in room 4B whenever you're ready
+[3/4/26, 3:09:12 PM] Dana: omw
+[3/5/26, 8:30:00 AM] Alex: Sorry, running about 15 min late, train is delayed.
+[3/5/26, 8:32:10 AM] Dana: np
+[3/5/26, 8:32:14 AM] Dana: standup moved to 9:30 anyway
+[3/5/26, 1:12:00 PM] Alex: The client asked if we can move the launch to April 20th. What do you think?
+[3/5/26, 1:20:44 PM] Dana: hmm
+[3/5/26, 1:20:51 PM] Dana: tell them we'll confirm by fri
+[3/5/26, 1:20:58 PM] Dana: need to check w eng first
+[3/6/26, 9:15:00 AM] Alex: Thanks for the feedback in the meeting yesterday, really helpful.
+[3/6/26, 9:30:21 AM] Dana: of course! u did great
+[3/6/26, 9:30:30 AM] Dana: keep it up
+[3/9/26, 8:00:41 AM] Dana: hey
+[3/9/26, 8:00:47 AM] Dana: can u cover the 11am call today, im stuck in another mtg
+[3/9/26, 8:05:12 AM] Alex: Sure, no problem. Anything I should know?
+[3/9/26, 8:06:30 AM] Dana: just get their timeline
+[3/9/26, 8:06:36 AM] Dana: dont commit to anything
+[3/9/26, 12:10:00 PM] Alex: Call went well. They want the timeline by Thursday.
+[3/9/26, 12:15:02 PM] Dana: perfect thx
+[3/10/26, 5:40:00 PM] Alex: Is it ok if I work from home tomorrow?
+[3/10/26, 5:52:18 PM] Dana: ya np
+[3/10/26, 5:52:22 PM] Dana: just be on slack
+[3/11/26, 10:00:00 AM] Alex: Can you review my draft of the timeline doc before I send it?
+[3/11/26, 10:25:40 AM] Dana: ya send it over
+[3/11/26, 10:58:03 AM] Dana: looks good, tighten the intro
+[3/11/26, 10:58:09 AM] Dana: then send
+[3/12/26, 9:00:00 AM] Alex: Happy Thursday! The timeline went out to the client.
+[3/12/26, 9:04:44 AM] Dana: 🙌
+[3/12/26, 9:04:50 AM] Dana: lets grab lunch fri, my treat
+[3/12/26, 9:06:00 AM] Alex: That sounds great, thank you!
+[3/12/26, 9:06:30 AM] Dana: 👍
+[3/13/26, 3:00:00 PM] Alex: I'm feeling a bit overwhelmed with the launch prep, can we talk about priorities?
+[3/13/26, 3:10:12 PM] Dana: for sure
+[3/13/26, 3:10:20 PM] Dana: lets do 15 min at 4
+[3/13/26, 3:10:26 PM] Dana: we'll figure it out, dont stress
+[3/16/26, 8:45:00 AM] Alex: Morning! When is the deadline for the Q2 report?
+[3/16/26, 8:52:13 AM] Dana: fri eod
+[3/16/26, 8:52:20 AM] Dana: earlier if u can
+[3/16/26, 11:20:00 AM] Alex: Where can I find the brand guidelines?
+[3/16/26, 11:31:02 AM] Dana: shared drive
+[3/16/26, 11:31:09 AM] Dana: under marketing
+[3/17/26, 9:10:00 AM] Alex: What time is the all hands tomorrow?
+[3/17/26, 9:14:40 AM] Dana: 10am
+[3/17/26, 9:14:46 AM] Dana: dont be late lol
+[3/17/26, 2:05:00 PM] Alex: Should I loop in legal on the vendor contract?
+[3/17/26, 2:19:30 PM] Dana: ya def
+[3/17/26, 2:19:36 PM] Dana: better safe
+[3/18/26, 10:00:00 AM] Alex: Can you approve my PTO for next week?
+[3/18/26, 10:48:21 AM] Dana: done 👍
+[3/18/26, 10:48:30 AM] Dana: enjoy
+[3/18/26, 4:30:00 PM] Alex: How did the client meeting go?
+[3/18/26, 4:41:12 PM] Dana: really well
+[3/18/26, 4:41:20 PM] Dana: they loved the deck
+[3/19/26, 9:00:00 AM] Alex: I got the analytics certification!
+[3/19/26, 9:03:44 AM] Dana: congrats!! 🎉
+[3/19/26, 9:03:50 AM] Dana: well deserved
+[3/19/26, 1:15:00 PM] Alex: Who is leading the kickoff on Monday?
+[3/19/26, 1:22:09 PM] Dana: me
+[3/19/26, 1:22:15 PM] Dana: u can take notes
+[3/20/26, 11:00:00 AM] Alex: Why did they push the launch again?
+[3/20/26, 11:12:31 AM] Dana: eng needs more time
+[3/20/26, 11:12:38 AM] Dana: not a big deal
+[3/20/26, 5:10:00 PM] Alex: Thanks for covering for me today
+[3/20/26, 5:15:02 PM] Dana: of course
+[3/20/26, 5:15:08 PM] Dana: feel better
+[3/23/26, 8:20:00 AM] Alex: Can I take Friday off? Family thing.
+[3/23/26, 8:34:51 AM] Dana: ya thats fine
+[3/23/26, 8:34:57 AM] Dana: just let the team know
+[3/23/26, 9:40:00 AM] Alex: Sorry I missed standup, my alarm didn't go off
+[3/23/26, 9:44:18 AM] Dana: np
+[3/23/26, 9:44:22 AM] Dana: just send me ur update
+[3/24/26, 3:00:00 PM] Alex: How are you doing? You seemed busy today
+[3/24/26, 3:20:41 PM] Dana: lol so busy
+[3/24/26, 3:20:47 PM] Dana: back to back mtgs all day
+[3/25/26, 10:30:00 AM] Alex: Do you have time for a quick call this afternoon?
+[3/25/26, 10:41:09 AM] Dana: ya after 2
+[3/25/26, 10:41:15 AM] Dana: send an invite
+[3/26/26, 12:00:00 PM] Alex: Can you send me the slides from the offsite?
+[3/26/26, 12:31:44 PM] Dana: ya sending now
+[3/26/26, 4:00:00 PM] Alex: The dashboard is finished and live
+[3/26/26, 4:06:12 PM] Dana: amazing 🙌
+[3/26/26, 4:06:20 PM] Dana: share it in the channel
+[3/27/26, 9:15:00 AM] Alex: What should I prioritize today?
+[3/27/26, 9:27:33 AM] Dana: q2 report first
+[3/27/26, 9:27:40 AM] Dana: then the vendor stuff
