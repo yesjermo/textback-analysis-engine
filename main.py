@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""TextBack CLI: learn how your boss or friends text, then text with them.
+"""TextBack Analysis Engine CLI: learn how your boss or friends text, analyse it, then text with them.
 
   python3 main.py participants chat.txt
   python3 main.py create --file chat.txt --target "Dana" --me "Alex" --relationship boss
