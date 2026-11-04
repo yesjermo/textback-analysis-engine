@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TextBack Analysis Engine</title>
+  <meta name="description" content="Learn how your boss, friends, talking stage or ex text, then text with them.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app" id="app" data-pane="chat">
+
+    <!-- Rail: the product's mark, two views of the list column, the theme -->
+    <nav class="rail" aria-label="TextBack Analysis Engine">
+      <span class="mark" title="TextBack Analysis Engine" aria-label="TextBack Analysis Engine" role="img">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3h11A2.5 2.5 0 0 1 20 5.5v8a2.5 2.5 0 0 1-2.5 2.5H10l-4.5 4v-4h0A1.5 1.5 0 0 1 4 14.5z" fill="currentColor"/><path d="M14.5 7.5 11 10.5l3.5 3M11 10.5h5" fill="none" stroke="var(--surface)" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </span>
+      <button type="button" class="rail-btn" data-view="contacts" aria-label="Contacts" title="Contacts" aria-pressed="true">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8.5" r="3.5"/><path d="M5 19.5c1.2-3.3 3.8-5 7-5s5.8 1.7 7 5"/></svg>
+      </button>
+      <button type="button" class="rail-btn" data-view="new" aria-label="New contact" title="New contact" aria-pressed="false">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>
+      </button>
+      <div class="rail-foot">
+        <button type="button" class="rail-btn" id="themeBtn" aria-label="Theme: match system" title="Theme: match system">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M12 4a8 8 0 0 0 0 16z" fill="currentColor" stroke="none"/></svg>
+        </button>
+      </div>
+    </nav>
+
+    <!-- List column: contacts, or a new contact -->
+    <section class="list" aria-label="Contacts and import">
+      <div class="view" id="viewContacts">
+        <header class="col-head">
+          <h2>Contacts</h2>
+          <span class="count num" id="contactCount">0</span>
+        </header>
+        <div class="col-tools">
+          <input type="search" id="contactSearch" class="field" placeholder="Search contacts" aria-label="Search contacts" autocomplete="off">
+        </div>
+        <ul id="contactList" class="contacts"></ul>
+        <section class="add-someone" aria-label="Add someone">
+          <h3>Add someone</h3>
+          <p>Learn how a boss, friend, talking stage or ex texts from a chat export or Instagram and TikTok screenshots.</p>
+          <div class="add-actions">
+            <button type="button" class="btn secondary" data-view="new">From a chat or screenshots</button>
+          </div>
+        </section>
+        <p class="engine" id="engineBadge" title="Where replies come from">browser · offline</p>
+      </div>
+
+      <div class="view" id="viewNew" hidden>
+        <header class="col-head">
+          <h2>New contact</h2>
+        </header>
+        <div class="import">
+          <label class="drop" id="dropZone">
+            <input type="file" id="fileInput" accept=".txt,.csv,.json,image/*" multiple>
+            <span class="drop-title">Choose a chat or screenshots</span>
+            <span class="drop-sub">or drop them here</span>
+          </label>
+          <dl class="formats">
+            <div><dt>Screenshots</dt><dd>Instagram, TikTok, Snapchat, iMessage</dd></div>
+            <div><dt>Exports</dt><dd>WhatsApp .txt, iMessage or SMS .csv, Telegram .json</dd></div>
+            <div><dt>Profiles</dt><dd>a TextBack .json bundle</dd></div>
+          </dl>
+          <section class="samples" aria-label="Sample people">
+            <h3>Or try a sample person</h3>
+            <ul id="sampleList" class="contacts sample-list"></ul>
+          </section>
+          <p class="status" id="importStatus" hidden></p>
+
+          <form id="setupForm" class="setup" hidden>
+            <label id="reviewBox" hidden>
+              <span class="label">Check what was read</span>
+              <span class="hint-text">Fix any typos. "Them:" lines are the left bubbles.</span>
+              <textarea id="shotReview" class="field" rows="9" spellcheck="false"></textarea>
+            </label>
+            <label><span class="label">They are</span>
+              <select id="targetSelect" class="field" required></select>
+            </label>
+            <label><span class="label">You are</span>
+              <select id="meSelect" class="field"></select>
+            </label>
+            <label><span class="label">Display name</span>
+              <input id="nameInput" class="field" required maxlength="40" autocomplete="off">
+            </label>
+            <label><span class="label">Relationship</span>
+              <select id="relSelect" class="field">
+                <optgroup label="Work">
+                  <option>boss</option><option>coworker</option><option>client</option>
+                </optgroup>
+                <optgroup label="Friends and family">
+                  <option selected>friend</option><option>best friend</option><option>partner</option>
+                  <option>parent</option><option>sibling</option><option>other</option>
+                </optgroup>
+                <optgroup label="Dating">
+                  <option>talking stage</option><option>ex</option>
+                </optgroup>
+              </select>
+            </label>
+            <button type="submit" class="btn primary wide">Learn their style</button>
+          </form>
+
+          <p class="privacy">Chats and screenshots are read in this browser and never uploaded. Reading screenshots downloads the free Tesseract reader once.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- The conversation -->
+    <main class="chat" aria-label="Conversation">
+      <header class="chat-head">
+        <button type="button" class="icon-btn back" data-pane-go="list" aria-label="Back to contacts">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg>
+        </button>
+        <span class="avatar" id="avatar" aria-hidden="true">?</span>
+        <div class="who">
+          <h1 id="whoName">No conversation open</h1>
+          <p id="whoStatus">Pick a contact, or add one from a chat or screenshots.</p>
+        </div>
+        <div class="head-actions">
+          <button type="button" class="btn secondary" id="nudgeBtn" disabled aria-label="Let them text first"><span class="long">Let them text first</span><span class="short">Text first</span></button>
+          <button type="button" class="btn secondary details-btn" data-pane-go="details">Their style</button>
+        </div>
+      </header>
+
+      <ol class="thread" id="thread" aria-live="polite"></ol>
+      <div class="typing" id="typing" hidden aria-label="Typing"><span></span><span></span><span></span></div>
+
+      <form class="composer" id="composer">
+        <input id="msgInput" class="field" placeholder="Text message" autocomplete="off" aria-label="Text message" disabled>
+        <button type="submit" class="btn primary" id="sendBtn" disabled>Send</button>
+      </form>
+    </main>
+
+    <!-- What TextBack learned -->
+    <aside class="details" aria-label="How they text">
+      <header class="col-head">
+        <h2>How they text</h2>
+        <button type="button" class="icon-btn close" data-pane-go="chat" aria-label="Close">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+        </button>
+      </header>
+      <div class="details-body">
+        <div class="kpis" id="statsGrid"></div>
+
+        <section class="block">
+          <div class="block-head">
+            <h3>Them vs you</h3>
+            <span class="legend"><i class="sw them"></i>Them <i class="sw you"></i>You</span>
+          </div>
+          <div class="compare" id="compare"></div>
+          <button type="button" class="btn secondary" id="featuresBtn" disabled>All text features</button>
+        </section>
+
+        <section class="block">
+          <h3>Learned habits</h3>
+          <ul class="rules" id="rulesList"></ul>
+        </section>
+
+        <section class="block">
+          <h3>Learning</h3>
+          <dl class="kv" id="learnCounts"></dl>
+          <label class="toggle"><input type="checkbox" id="showWhy" checked><span>Show why each reply was chosen</span></label>
+          <label class="toggle"><input type="checkbox" id="practiceMode"><span>Practice mode: nothing you fix is saved</span></label>
+          <p class="note">Tap one of their replies to correct it or mark it spot-on. Your corrections outrank the chat history.</p>
+          <div class="actions">
+            <button type="button" class="btn secondary" id="addMoreBtn" disabled title="Add a newer chat export or more screenshots">Add more</button>
+            <input type="file" id="addInput" accept=".txt,.csv,.json,image/*" multiple hidden>
+            <button type="button" class="btn secondary" id="exportBtn" disabled>Export</button>
+            <button type="button" class="btn danger" id="deleteBtn" disabled>Remove</button>
+          </div>
+        </section>
+
+        <section class="block">
+          <h3>Undo and reset</h3>
+          <p class="note" id="undoNote">Every change can be undone.</p>
+          <div class="actions">
+            <button type="button" class="btn secondary" id="undoBtn" disabled>Undo last change</button>
+            <button type="button" class="btn secondary" id="resetBtn" disabled>Reset corrections</button>
+            <button type="button" class="btn danger" id="startBtn" disabled>Back to start</button>
+          </div>
+        </section>
+      </div>
+    </aside>
+
+    <!-- Phone: one region at a time -->
+    <nav class="tabbar" aria-label="Sections">
+      <button type="button" data-pane-go="list" data-view="contacts">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8.5" r="3.5"/><path d="M5 19.5c1.2-3.3 3.8-5 7-5s5.8 1.7 7 5"/></svg>Contacts
+      </button>
+      <button type="button" data-pane-go="chat">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6.5A2.5 2.5 0 0 1 6.5 4h11A2.5 2.5 0 0 1 20 6.5v7a2.5 2.5 0 0 1-2.5 2.5H10l-4 3.5V16a2 2 0 0 1-2-2z"/></svg>Chat
+      </button>
+      <button type="button" data-pane-go="details">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19V11M12 19V5M19 19v-6"/></svg>Style
+      </button>
+      <button type="button" data-pane-go="list" data-view="new">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>New
+      </button>
+    </nav>
+  </div>
+
+  <dialog id="featuresDialog" class="features-dialog" aria-labelledby="featuresTitle">
+    <div class="fx">
+      <header class="fx-head">
+        <div>
+          <h2 id="featuresTitle">Text features</h2>
+          <p class="note" id="featuresSummary"></p>
+        </div>
+        <div class="fx-actions">
+          <button type="button" class="btn secondary" id="featuresCsv">CSV</button>
+          <button type="button" class="btn secondary" id="featuresJson">JSON</button>
+          <button type="button" class="icon-btn fx-close" id="featuresClose" aria-label="Close">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+          </button>
+        </div>
+      </header>
+      <div class="fx-body" id="featuresBody"></div>
+    </div>
+  </dialog>
+
+  <dialog id="fixDialog">
+    <form method="dialog" id="fixForm">
+      <h3>What would they actually say?</h3>
+      <p class="note" id="fixWas"></p>
+      <label><span class="label">Their reply</span>
+        <textarea id="fixText" class="field" rows="3" placeholder="One text bubble per line"></textarea>
+      </label>
+      <div class="dialog-actions">
+        <button value="cancel" class="btn ghost">Cancel</button>
+        <button value="good" class="btn secondary" id="goodBtn">That's exactly them</button>
+        <button value="fix" class="btn primary">Save correction</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="sample.js"></script>
+  <script src="reply_data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
