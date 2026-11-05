@@ -7,7 +7,7 @@
 ## 1. Get the code
 
 ```bash
-git clone <your-fork-url> textback-analysis-engine
+git clone https://github.com/yesjermo/textback-analysis-engine.git
 cd textback
 ```
 
@@ -43,6 +43,22 @@ You can also open `web/index.html` directly, or deploy `web/` to any static host
 Pages, Netlify, Vercel). In that mode chats are parsed and stored only in that browser.
 Use **Export profile** / **Import** to move profiles between the CLI and a browser
 (`python3 main.py export dana` writes a bundle the web view can import).
+
+## Put the demo online (GitHub Pages)
+
+The web view is a static page, so GitHub Pages hosts it for free. The live demo is
+**https://yesjermo.github.io/textback-analysis-engine/web/?demo**, which the README's **Launch TextBack** button opens.
+
+To publish your own copy (a fork, say):
+
+1. Push the project to a GitHub repo.
+2. In the repo, open **Settings → Pages**, set **Source** to **Deploy from a branch**, choose
+   `main` and `/ (root)`, and save.
+3. After a minute the demo is live at `https://<your-username>.github.io/<repo>/web/?demo`.
+4. Point the README's **Launch TextBack** button at that address.
+
+On Pages there's no Python server, so the page runs in browser-only mode: chats and screenshots
+are read and stored in the visitor's own browser, and nothing is uploaded.
 
 ## 5. Analyse texting features
 
