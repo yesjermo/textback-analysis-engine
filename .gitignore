@@ -1,0 +1,34 @@
+# Your data: never commit real chats or profiles
+profiles/
+exports/
+data/
+*.textback.json
+*.textprint.json
+chat*.txt
+!examples/sample_chat.txt
+result.json
+screenshots/
+shots/
+
+# Secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# design-skill working files
+.taste-skill/
