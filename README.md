@@ -8,6 +8,14 @@
 [![Imports](https://img.shields.io/badge/imports-WhatsApp%20%C2%B7%20iMessage%20%C2%B7%20Telegram%20%C2%B7%20screenshots-lightgrey)](INSTALL.md#exporting-chats)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
+<p align="center">
+  <a href="https://yesjermo.github.io/textback-analysis-engine/web/?demo">
+    <img src="https://img.shields.io/badge/-%E2%96%B6%20Launch%20TextBack-1d5fbf?style=for-the-badge" alt="Launch TextBack">
+  </a>
+  <br>
+  <em>Click to text a sample boss and analyse how they text, right in your browser (zero install, zero server; chats never leave the page).</em>
+</p>
+
 **Learn how your boss, your friends, your talking stage or your ex text, analyse it, then text with them.**
 
 TextBack Analysis Engine (TextBack for short) reads a chat export, measures how one person texts (length, casing, punctuation,
@@ -39,7 +47,7 @@ you > /fix ya thats fine | just put it on the cal
 ## Quick start
 
 ```bash
-git clone <your-fork-url> textback-analysis-engine && cd textback-analysis-engine
+git clone https://github.com/yesjermo/textback-analysis-engine.git && cd textback-analysis-engine
 python3 main.py create --file examples/sample_chat.txt --target Dana --me Alex --relationship boss
 python3 main.py chat dana
 ```
